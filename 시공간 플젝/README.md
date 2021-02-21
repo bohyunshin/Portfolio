@@ -35,5 +35,5 @@
 
 ### 자세한 프로젝트 내용
 
-
+[여기](https://github.com/bohyunshin/Portfolio/blob/master/시공간%20플젝/2019321817%20신보현%20Final%20Project%20Report.pdf) 를 클릭해주시기 바랍니다.
 
