@@ -32,5 +32,5 @@ Data Science 분야는 매우 방대하여 이를 한마디로 정의하기는 �
 
 ### 포트폴리오 시각화 tableau 링크
 
-https://public.tableau.com/profile/bohyun.shin#!/vizhome/ATasteofChristmas_16122429615630/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/bohyun.shin/viz/ATasteofChristmas_16122429615630/Dashboard1
 
