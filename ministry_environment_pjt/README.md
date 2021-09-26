@@ -47,4 +47,4 @@
 
 ### 자세한 공모전 내용
 
-첨부 pdf를 참고해주시기 바랍니다.
+[여기](https://github.com/bohyunshin/Portfolio/blob/master/ministry_envirnment_pjt/final_ppt.pdf)를 참고해주시기 바랍니다.

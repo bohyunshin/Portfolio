@@ -59,5 +59,5 @@
 
 ### 자세한 프로젝트 내용
 
-첨부 파일을 참고해주시기 바랍니다.
+[여기](https://github.com/bohyunshin/Portfolio/blob/master/soccer_data_viz_pjt/final_ppt.pdf)를 참고해주시기 바랍니다.
 

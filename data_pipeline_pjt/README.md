@@ -45,5 +45,5 @@ END-TO-END 데이터 파이프라인 프로젝트입니다. 데이터 수집, �
 
 ### 자세한 프로젝트 내용
 
-[여기](https://github.com/bohyunshin/Portfolio/blob/master/데이터%20파이프라인%20플젝/데이터%20파이프라인.pdf)를참고해주시기 바랍니다.
+[여기](https://github.com/bohyunshin/Portfolio/blob/master/data_pipeline_pjt/final_ppt.pdf)를 참고해주시기 바랍니다.
 
